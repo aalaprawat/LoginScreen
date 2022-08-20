@@ -17,5 +17,4 @@
 
 <h3 align="center">Let me know your views</h3>
 
--
--[@MailId](aalaprawatdurg@gmail.com) 
+-[@MailId](aalaprawat) 

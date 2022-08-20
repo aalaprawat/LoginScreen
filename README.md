@@ -16,5 +16,3 @@
 - MVVM with Repositories
 
 <h3 align="center">Let me know your views @ my [MainId](aalaprawatdurg@gmail.com) </h3>
-
-- 👯 I’m looking to collaborate on [asdf](adfs)

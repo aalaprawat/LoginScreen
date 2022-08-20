@@ -22,7 +22,7 @@
             android:src="@drawable/ic_launcher_foreground"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:tint="@color/black" />
+            app:tint="@android:color/holo_orange_light" />
 
         <TextView
             android:id="@+id/textView"

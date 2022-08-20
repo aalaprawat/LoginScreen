@@ -5,8 +5,6 @@
 
 - I’m currently working at [WorkIndia]
 
-- 👯 I’m looking to collaborate on [asdf](adfs)
-
 <h3 align="center">In this Project I have used </h3>
 
 - Hilt
@@ -17,4 +15,4 @@
 
 <h3 align="center">Let me know your views</h3>
 
--[@MailId](aalaprawat) 
+-aalaprawatdurg@gmail.com

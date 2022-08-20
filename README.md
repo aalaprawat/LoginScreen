@@ -15,4 +15,7 @@
 - MVVM with Repositories
 - MVVM with Repositories
 
-<h3 align="center">Let me know your views @ my [MainId](aalaprawatdurg@gmail.com) </h3>
+<h3 align="center">Let me know your views</h3>
+
+-
+-[@MailId](aalaprawatdurg@gmail.com) 

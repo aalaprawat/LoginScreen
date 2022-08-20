@@ -19,7 +19,9 @@ object DateUtility {
             simpleDateFormat.isLenient = false;
             val date = simpleDateFormat.parse(dateString)
             if (date != null) {
-                return date < simpleDateFormat.parse("01/01/2010")
+                if (date > simpleDateFormat.parse("01/01/2010"))
+                    return false
+                else return date >= simpleDateFormat.parse("01/01/1900")
             }
             return false
         } catch (exception: ParseException) {
